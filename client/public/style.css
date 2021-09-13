@@ -1,0 +1,107 @@
+.ten-fluid {
+    max-width: 10%;
+    height: auto;
+}
+
+.quarter-fluid {
+    max-width: 25%;
+    height: auto;
+}
+
+.listItem {
+    list-style: none;
+    text-align: left;
+}
+
+.freezerListProductsHeader {
+    background-image: linear-gradient(to right, #fff, #b0e2ff);
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.freezerListProducts {
+    background-image: linear-gradient(to right, #fff, #b0e2ff);
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.listProductsHeader {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    border: solid 1px black;
+}
+
+.listProducts {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    border: solid 1px black;
+}
+
+.bakingListProducts {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, #eed5b7, #ffe4e1);
+}
+
+.bakingListProductsHeader {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, #eed5b7, #ffe4e1);
+}
+
+.fridgeListProducts {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, deepskyblue, #fff);
+}
+
+.fridgeListProductsHeader {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, deepskyblue, #fff);
+}
+
+.fruitListProducts {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, lawngreen, #7ccd7c);
+}
+
+.fruitListProductsHeader {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, lawngreen, #7ccd7c);
+}
+
+.bathListProducts {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, #40e0d0, #fff);
+}
+
+.bathListProductsHeader {
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(to right, #40e0d0, #fff);
+}
+
+.listHeading {
+    display: block;
+    text-align: left;
+}
+
+.width100{
+    width: 100%;
+}
